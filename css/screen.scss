@@ -12,3 +12,7 @@
 @import "forms";
 @import "navigation";
 @import "footer";
+
+body, p, address, ul {
+  font-family: Cambria, Georgia, serif !important;
+}
